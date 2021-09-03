@@ -1,0 +1,14 @@
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.csproj.AssemblyReference.cache
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.AssemblyInfoInputs.cache
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.AssemblyInfo.cs
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\counterNumbers\counterNumbers\bin\Debug\netcoreapp3.1\counterNumbers.exe
+D:\Excercie\counterNumbers\counterNumbers\bin\Debug\netcoreapp3.1\counterNumbers.deps.json
+D:\Excercie\counterNumbers\counterNumbers\bin\Debug\netcoreapp3.1\counterNumbers.runtimeconfig.json
+D:\Excercie\counterNumbers\counterNumbers\bin\Debug\netcoreapp3.1\counterNumbers.runtimeconfig.dev.json
+D:\Excercie\counterNumbers\counterNumbers\bin\Debug\netcoreapp3.1\counterNumbers.dll
+D:\Excercie\counterNumbers\counterNumbers\bin\Debug\netcoreapp3.1\counterNumbers.pdb
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.dll
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.pdb
+D:\Excercie\counterNumbers\counterNumbers\obj\Debug\netcoreapp3.1\counterNumbers.genruntimeconfig.cache
