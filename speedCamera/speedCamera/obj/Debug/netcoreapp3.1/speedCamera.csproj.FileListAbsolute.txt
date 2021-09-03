@@ -1,0 +1,14 @@
+D:\Excercie\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.exe
+D:\Excercie\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.deps.json
+D:\Excercie\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.runtimeconfig.json
+D:\Excercie\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.runtimeconfig.dev.json
+D:\Excercie\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.dll
+D:\Excercie\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.pdb
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.csproj.AssemblyReference.cache
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.AssemblyInfoInputs.cache
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.AssemblyInfo.cs
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.csproj.CoreCompileInputs.cache
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.dll
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.pdb
+D:\Excercie\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.genruntimeconfig.cache
