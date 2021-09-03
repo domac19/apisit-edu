@@ -1,0 +1,14 @@
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.csproj.AssemblyReference.cache
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.AssemblyInfoInputs.cache
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.AssemblyInfo.cs
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\workingNumbers\workingNumbers\bin\Debug\netcoreapp3.1\workingNumbers.exe
+D:\Excercie\workingNumbers\workingNumbers\bin\Debug\netcoreapp3.1\workingNumbers.deps.json
+D:\Excercie\workingNumbers\workingNumbers\bin\Debug\netcoreapp3.1\workingNumbers.runtimeconfig.json
+D:\Excercie\workingNumbers\workingNumbers\bin\Debug\netcoreapp3.1\workingNumbers.runtimeconfig.dev.json
+D:\Excercie\workingNumbers\workingNumbers\bin\Debug\netcoreapp3.1\workingNumbers.dll
+D:\Excercie\workingNumbers\workingNumbers\bin\Debug\netcoreapp3.1\workingNumbers.pdb
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.dll
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.pdb
+D:\Excercie\workingNumbers\workingNumbers\obj\Debug\netcoreapp3.1\workingNumbers.genruntimeconfig.cache
