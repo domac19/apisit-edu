@@ -1,0 +1,14 @@
+D:\Excercie\imageDescription\imageDescription\bin\Debug\netcoreapp3.1\imageDescription.exe
+D:\Excercie\imageDescription\imageDescription\bin\Debug\netcoreapp3.1\imageDescription.deps.json
+D:\Excercie\imageDescription\imageDescription\bin\Debug\netcoreapp3.1\imageDescription.runtimeconfig.json
+D:\Excercie\imageDescription\imageDescription\bin\Debug\netcoreapp3.1\imageDescription.runtimeconfig.dev.json
+D:\Excercie\imageDescription\imageDescription\bin\Debug\netcoreapp3.1\imageDescription.dll
+D:\Excercie\imageDescription\imageDescription\bin\Debug\netcoreapp3.1\imageDescription.pdb
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.csproj.AssemblyReference.cache
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.AssemblyInfoInputs.cache
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.AssemblyInfo.cs
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.csproj.CoreCompileInputs.cache
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.dll
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.pdb
+D:\Excercie\imageDescription\imageDescription\obj\Debug\netcoreapp3.1\imageDescription.genruntimeconfig.cache
