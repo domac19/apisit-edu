@@ -9,15 +9,20 @@ namespace guessNumber
             Console.WriteLine("Secret number 5");
             
             Random randomNumbers = new Random();
-            int guessNumber = randomNumbers.Next(1, 11);
+            int guessNumber = randomNumbers.Next(1, 10);
 
-            int userNumber = Convert.ToInt32(Console.ReadLine());
-
-            for (int i = 1; i < guessNumber; i++)
+            for (int i = 1; i <= 4; i++)
             {
-                Console.WriteLine(guessNumber);
+                int userNumber = Convert.ToInt32(Console.ReadLine());
+                if (userNumber == guessNumber)
+                {
+                    Console.WriteLine("You won!");
+                }
+                else if( userNumber != guessNumber)
+                {
+                    Console.WriteLine("You lost!");
+                }
             }
-            Console.WriteLine("Wrong number!");
         }
     }
 }
