@@ -1,0 +1,14 @@
+D:\Excercie\seriesNumbers\seriesNumbers\bin\Debug\netcoreapp3.1\seriesNumbers.exe
+D:\Excercie\seriesNumbers\seriesNumbers\bin\Debug\netcoreapp3.1\seriesNumbers.deps.json
+D:\Excercie\seriesNumbers\seriesNumbers\bin\Debug\netcoreapp3.1\seriesNumbers.runtimeconfig.json
+D:\Excercie\seriesNumbers\seriesNumbers\bin\Debug\netcoreapp3.1\seriesNumbers.runtimeconfig.dev.json
+D:\Excercie\seriesNumbers\seriesNumbers\bin\Debug\netcoreapp3.1\seriesNumbers.dll
+D:\Excercie\seriesNumbers\seriesNumbers\bin\Debug\netcoreapp3.1\seriesNumbers.pdb
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.csproj.AssemblyReference.cache
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.AssemblyInfoInputs.cache
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.AssemblyInfo.cs
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.dll
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.pdb
+D:\Excercie\seriesNumbers\seriesNumbers\obj\Debug\netcoreapp3.1\seriesNumbers.genruntimeconfig.cache
