@@ -6,13 +6,16 @@ namespace factoricalNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello! Please enter a number!");
-            int enterNumber = Convert.ToInt32(Console.ReadLine());
+            int i = 1;
+            int factNumber = 1;
+            Console.Write(" Hello! Please enter any Number: ");
+            int numberInput = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i < 1; i++)
+            for (i = 1; i <= numberInput; i++)
             {
-                Console.WriteLine("5! = 120");
+                factNumber = factNumber * i;
             }
+            Console.Write("Factorial of !" + numberInput + " = " + factNumber);
         }
     }
 }

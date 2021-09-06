@@ -12,3 +12,17 @@ C:\Users\Domagoj\source\repos\factoricalNumber\factoricalNumber\obj\Debug\netcor
 C:\Users\Domagoj\source\repos\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.dll
 C:\Users\Domagoj\source\repos\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.pdb
 C:\Users\Domagoj\source\repos\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.genruntimeconfig.cache
+D:\Excercie\factoricalNumber\factoricalNumber\bin\Debug\netcoreapp3.1\factoricalNumber.exe
+D:\Excercie\factoricalNumber\factoricalNumber\bin\Debug\netcoreapp3.1\factoricalNumber.deps.json
+D:\Excercie\factoricalNumber\factoricalNumber\bin\Debug\netcoreapp3.1\factoricalNumber.runtimeconfig.json
+D:\Excercie\factoricalNumber\factoricalNumber\bin\Debug\netcoreapp3.1\factoricalNumber.runtimeconfig.dev.json
+D:\Excercie\factoricalNumber\factoricalNumber\bin\Debug\netcoreapp3.1\factoricalNumber.dll
+D:\Excercie\factoricalNumber\factoricalNumber\bin\Debug\netcoreapp3.1\factoricalNumber.pdb
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.csproj.AssemblyReference.cache
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.AssemblyInfoInputs.cache
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.AssemblyInfo.cs
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.csproj.CoreCompileInputs.cache
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.dll
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.pdb
+D:\Excercie\factoricalNumber\factoricalNumber\obj\Debug\netcoreapp3.1\factoricalNumber.genruntimeconfig.cache
