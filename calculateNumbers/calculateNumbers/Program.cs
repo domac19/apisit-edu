@@ -6,14 +6,13 @@ namespace calculateNumbers
     {
         static void Main(string[] args)
         {
-            int enterSomething = 0;
-            
-            while(enterSomething == 0)
+            bool textEnter = true;
+
+            while(textEnter)
             {
                 Console.WriteLine("Enter a number or ok to exit!");
                 var writeData = Console.ReadLine();
-
-                if (Convert.ToInt32(writeData) > 0)
+                if(writeData == "ok" || writeData == "5")
                 {
                     break;
                 }
