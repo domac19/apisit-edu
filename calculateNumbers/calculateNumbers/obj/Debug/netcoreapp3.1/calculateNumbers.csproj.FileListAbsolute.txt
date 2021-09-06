@@ -1,0 +1,14 @@
+D:\Excercie\calculateNumbers\calculateNumbers\bin\Debug\netcoreapp3.1\calculateNumbers.exe
+D:\Excercie\calculateNumbers\calculateNumbers\bin\Debug\netcoreapp3.1\calculateNumbers.deps.json
+D:\Excercie\calculateNumbers\calculateNumbers\bin\Debug\netcoreapp3.1\calculateNumbers.runtimeconfig.json
+D:\Excercie\calculateNumbers\calculateNumbers\bin\Debug\netcoreapp3.1\calculateNumbers.runtimeconfig.dev.json
+D:\Excercie\calculateNumbers\calculateNumbers\bin\Debug\netcoreapp3.1\calculateNumbers.dll
+D:\Excercie\calculateNumbers\calculateNumbers\bin\Debug\netcoreapp3.1\calculateNumbers.pdb
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.csproj.AssemblyReference.cache
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.AssemblyInfoInputs.cache
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.AssemblyInfo.cs
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.dll
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.pdb
+D:\Excercie\calculateNumbers\calculateNumbers\obj\Debug\netcoreapp3.1\calculateNumbers.genruntimeconfig.cache
