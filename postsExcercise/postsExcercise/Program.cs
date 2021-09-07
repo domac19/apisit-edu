@@ -14,22 +14,21 @@ namespace postsExcercise
                 Console.WriteLine("Enter different names or press Enter and exit! ");
 
                 var inputText = Console.ReadLine();
-                if (inputText == "")
-                {
-                    nameFriend.Add(inputText);
+                if (inputText == "") 
                     break;
-                }
-                if(nameFriend.Count > 0)
+                    nameFriend.Add(inputText);
+
+                if(nameFriend.Count == 1)
                 {
-                    Console.WriteLine("Likes your post:",  nameFriend[0]);
+                    Console.WriteLine(nameFriend[0] + "likes your post");
                 }
-                else if(nameFriend.Count >= 2)
+                else if(nameFriend.Count == 2)
                 {
-                    Console.WriteLine(nameFriend[0] + nameFriend[1]);
+                    Console.WriteLine(nameFriend[0],  nameFriend[1] + "likes your post");
                 }
-                else
+                else if(nameFriend.Count > 2)
                 {
-                    Console.WriteLine(nameFriend);
+                    Console.WriteLine(nameFriend[0], nameFriend[1],  nameFriend.Count + "likes your post");
                 }
             }
         }
