@@ -1,0 +1,14 @@
+D:\Excercie\listNumbers\listNumbers\bin\Debug\netcoreapp3.1\listNumbers.exe
+D:\Excercie\listNumbers\listNumbers\bin\Debug\netcoreapp3.1\listNumbers.deps.json
+D:\Excercie\listNumbers\listNumbers\bin\Debug\netcoreapp3.1\listNumbers.runtimeconfig.json
+D:\Excercie\listNumbers\listNumbers\bin\Debug\netcoreapp3.1\listNumbers.runtimeconfig.dev.json
+D:\Excercie\listNumbers\listNumbers\bin\Debug\netcoreapp3.1\listNumbers.dll
+D:\Excercie\listNumbers\listNumbers\bin\Debug\netcoreapp3.1\listNumbers.pdb
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.csproj.AssemblyReference.cache
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.AssemblyInfoInputs.cache
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.AssemblyInfo.cs
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.dll
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.pdb
+D:\Excercie\listNumbers\listNumbers\obj\Debug\netcoreapp3.1\listNumbers.genruntimeconfig.cache
