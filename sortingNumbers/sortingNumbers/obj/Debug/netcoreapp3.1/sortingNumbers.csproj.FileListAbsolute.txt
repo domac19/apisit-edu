@@ -1,0 +1,14 @@
+D:\Excercie\sortingNumbers\sortingNumbers\bin\Debug\netcoreapp3.1\sortingNumbers.exe
+D:\Excercie\sortingNumbers\sortingNumbers\bin\Debug\netcoreapp3.1\sortingNumbers.deps.json
+D:\Excercie\sortingNumbers\sortingNumbers\bin\Debug\netcoreapp3.1\sortingNumbers.runtimeconfig.json
+D:\Excercie\sortingNumbers\sortingNumbers\bin\Debug\netcoreapp3.1\sortingNumbers.runtimeconfig.dev.json
+D:\Excercie\sortingNumbers\sortingNumbers\bin\Debug\netcoreapp3.1\sortingNumbers.dll
+D:\Excercie\sortingNumbers\sortingNumbers\bin\Debug\netcoreapp3.1\sortingNumbers.pdb
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.csproj.AssemblyReference.cache
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.AssemblyInfoInputs.cache
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.AssemblyInfo.cs
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.dll
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.pdb
+D:\Excercie\sortingNumbers\sortingNumbers\obj\Debug\netcoreapp3.1\sortingNumbers.genruntimeconfig.cache
