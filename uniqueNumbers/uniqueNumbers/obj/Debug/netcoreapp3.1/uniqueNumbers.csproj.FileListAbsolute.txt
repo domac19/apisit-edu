@@ -1,0 +1,14 @@
+D:\Excercie\uniqueNumbers\uniqueNumbers\bin\Debug\netcoreapp3.1\uniqueNumbers.exe
+D:\Excercie\uniqueNumbers\uniqueNumbers\bin\Debug\netcoreapp3.1\uniqueNumbers.deps.json
+D:\Excercie\uniqueNumbers\uniqueNumbers\bin\Debug\netcoreapp3.1\uniqueNumbers.runtimeconfig.json
+D:\Excercie\uniqueNumbers\uniqueNumbers\bin\Debug\netcoreapp3.1\uniqueNumbers.runtimeconfig.dev.json
+D:\Excercie\uniqueNumbers\uniqueNumbers\bin\Debug\netcoreapp3.1\uniqueNumbers.dll
+D:\Excercie\uniqueNumbers\uniqueNumbers\bin\Debug\netcoreapp3.1\uniqueNumbers.pdb
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.csproj.AssemblyReference.cache
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.AssemblyInfoInputs.cache
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.AssemblyInfo.cs
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.csproj.CoreCompileInputs.cache
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.dll
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.pdb
+D:\Excercie\uniqueNumbers\uniqueNumbers\obj\Debug\netcoreapp3.1\uniqueNumbers.genruntimeconfig.cache
