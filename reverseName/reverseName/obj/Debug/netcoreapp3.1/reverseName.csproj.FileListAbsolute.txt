@@ -1,0 +1,14 @@
+D:\Excercie\reverseName\reverseName\bin\Debug\netcoreapp3.1\reverseName.exe
+D:\Excercie\reverseName\reverseName\bin\Debug\netcoreapp3.1\reverseName.deps.json
+D:\Excercie\reverseName\reverseName\bin\Debug\netcoreapp3.1\reverseName.runtimeconfig.json
+D:\Excercie\reverseName\reverseName\bin\Debug\netcoreapp3.1\reverseName.runtimeconfig.dev.json
+D:\Excercie\reverseName\reverseName\bin\Debug\netcoreapp3.1\reverseName.dll
+D:\Excercie\reverseName\reverseName\bin\Debug\netcoreapp3.1\reverseName.pdb
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.csproj.AssemblyReference.cache
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.AssemblyInfoInputs.cache
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.AssemblyInfo.cs
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.csproj.CoreCompileInputs.cache
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.dll
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.pdb
+D:\Excercie\reverseName\reverseName\obj\Debug\netcoreapp3.1\reverseName.genruntimeconfig.cache
