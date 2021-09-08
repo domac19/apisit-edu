@@ -6,22 +6,22 @@ namespace listNumbers
     {
         static void Main(string[] args)
         {
-            var displayNumbers = new List<int> ();
-
             while (true)
             {
+                string[] numbersArray;
                 Console.WriteLine("Write a list of comma separated numbers!");
-                int listNumbers = Convert.ToInt32(Console.ReadLine());
+                var addNumbers = Console.ReadLine();
+                numbersArray = addNumbers.Split(',');
 
-                if (displayNumbers.Count == 0 || displayNumbers.Count <= 5)
+                if (addNumbers == "" || numbersArray.Length < 5)
                 {
                     Console.WriteLine("Invalid list!");
                 }
                 else
                 {
-                    displayNumbers.Add(listNumbers);
+                    Console.WriteLine(addNumbers);
+                    break;
                 }
-                
             }
         }
     }
