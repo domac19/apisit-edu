@@ -6,30 +6,23 @@ namespace hyphenExcercise
     {
         static void Main(string[] args)
         {
-            bool checkResult = true;
-
             Console.Write("Enter few numbers separated by hyphen: ");
             string[] enterNumbers = Console.ReadLine().Split('-');
             int[] numbersArray = Array.ConvertAll(enterNumbers, int.Parse);
+            
+            bool checkResult = true;
 
             for (int i = 1; i < numbersArray.Length; i++)
             {
                 if (numbersArray[i] + 1 == numbersArray[i - 1] || numbersArray[i] - 1 == numbersArray[i - 1] && checkResult == true)
                 {  
-                    checkResult = true;
+                    Console.Write("Consecutive");
                 }
                 else
                 {   
                     checkResult = false;
+                    Console.WriteLine("Not Consecutive");
                 }
-            }
-            if (checkResult)
-            {
-                Console.WriteLine("The Numbers are consecutive");
-            }
-            else
-            {
-                Console.WriteLine("They are not consecutive");
             }
         }
     }
