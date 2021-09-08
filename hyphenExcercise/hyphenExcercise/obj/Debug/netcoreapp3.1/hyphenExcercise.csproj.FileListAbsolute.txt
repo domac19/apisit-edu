@@ -1,0 +1,14 @@
+D:\Excercie\hyphenExcercise\hyphenExcercise\bin\Debug\netcoreapp3.1\hyphenExcercise.exe
+D:\Excercie\hyphenExcercise\hyphenExcercise\bin\Debug\netcoreapp3.1\hyphenExcercise.deps.json
+D:\Excercie\hyphenExcercise\hyphenExcercise\bin\Debug\netcoreapp3.1\hyphenExcercise.runtimeconfig.json
+D:\Excercie\hyphenExcercise\hyphenExcercise\bin\Debug\netcoreapp3.1\hyphenExcercise.runtimeconfig.dev.json
+D:\Excercie\hyphenExcercise\hyphenExcercise\bin\Debug\netcoreapp3.1\hyphenExcercise.dll
+D:\Excercie\hyphenExcercise\hyphenExcercise\bin\Debug\netcoreapp3.1\hyphenExcercise.pdb
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.csproj.AssemblyReference.cache
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.AssemblyInfoInputs.cache
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.AssemblyInfo.cs
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.csproj.CoreCompileInputs.cache
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.dll
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.pdb
+D:\Excercie\hyphenExcercise\hyphenExcercise\obj\Debug\netcoreapp3.1\hyphenExcercise.genruntimeconfig.cache
