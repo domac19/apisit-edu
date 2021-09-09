@@ -17,6 +17,7 @@ namespace uniqueNumbers
                 
                 if(enterNumber == "QUIT" || enterNumber.Length >= 1)
                 {
+                    Console.WriteLine(enterNumber);
                     break;
                 }
             }
