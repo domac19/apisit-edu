@@ -16,19 +16,20 @@ namespace postsExcercise
                 var inputText = Console.ReadLine();
                 if (inputText == "") 
                     break;
+                else
                     nameFriend.Add(inputText);
 
                 if(nameFriend.Count == 1)
                 {
-                    Console.WriteLine(nameFriend[0] + "likes your post");
+                    Console.WriteLine(nameFriend[0] + " like your post");
                 }
                 else if(nameFriend.Count == 2)
                 {
-                    Console.WriteLine(nameFriend[0],  nameFriend[1] + "likes your post");
+                    Console.WriteLine(nameFriend[0] + " and " + nameFriend[1] + " likes your post");
                 }
                 else if(nameFriend.Count > 2)
                 {
-                    Console.WriteLine(nameFriend[0], nameFriend[1],  nameFriend.Count + "likes your post");
+                    Console.WriteLine(nameFriend[0] + " and " + nameFriend[1] + " and " +  nameFriend.Count + "  likes your post");
                 }
             }
         }
