@@ -1,0 +1,14 @@
+D:\Excercie\pascalCase\pascalCase\bin\Debug\netcoreapp3.1\pascalCase.exe
+D:\Excercie\pascalCase\pascalCase\bin\Debug\netcoreapp3.1\pascalCase.deps.json
+D:\Excercie\pascalCase\pascalCase\bin\Debug\netcoreapp3.1\pascalCase.runtimeconfig.json
+D:\Excercie\pascalCase\pascalCase\bin\Debug\netcoreapp3.1\pascalCase.runtimeconfig.dev.json
+D:\Excercie\pascalCase\pascalCase\bin\Debug\netcoreapp3.1\pascalCase.dll
+D:\Excercie\pascalCase\pascalCase\bin\Debug\netcoreapp3.1\pascalCase.pdb
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.csproj.AssemblyReference.cache
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.AssemblyInfoInputs.cache
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.AssemblyInfo.cs
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.csproj.CoreCompileInputs.cache
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.dll
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.pdb
+D:\Excercie\pascalCase\pascalCase\obj\Debug\netcoreapp3.1\pascalCase.genruntimeconfig.cache
