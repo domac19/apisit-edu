@@ -1,0 +1,14 @@
+D:\Excercie\readingFiles\readingFiles\bin\Debug\netcoreapp3.1\readingFiles.exe
+D:\Excercie\readingFiles\readingFiles\bin\Debug\netcoreapp3.1\readingFiles.deps.json
+D:\Excercie\readingFiles\readingFiles\bin\Debug\netcoreapp3.1\readingFiles.runtimeconfig.json
+D:\Excercie\readingFiles\readingFiles\bin\Debug\netcoreapp3.1\readingFiles.runtimeconfig.dev.json
+D:\Excercie\readingFiles\readingFiles\bin\Debug\netcoreapp3.1\readingFiles.dll
+D:\Excercie\readingFiles\readingFiles\bin\Debug\netcoreapp3.1\readingFiles.pdb
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.csproj.AssemblyReference.cache
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.AssemblyInfoInputs.cache
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.AssemblyInfo.cs
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.csproj.CoreCompileInputs.cache
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.dll
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.pdb
+D:\Excercie\readingFiles\readingFiles\obj\Debug\netcoreapp3.1\readingFiles.genruntimeconfig.cache
