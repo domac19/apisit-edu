@@ -8,11 +8,11 @@ namespace speedCamera
         {
             Console.WriteLine("Dear User! Please enter speed limit of your camera!");
 
-            int speedCamera = Convert.ToInt32(Console.ReadLine());
+            var speedCamera = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Now enter speed of your car!");
 
-            int carSpeed = Convert.ToInt32(Console.ReadLine());
+            var carSpeed = Convert.ToInt32(Console.ReadLine());
 
             int speedLimit = 10;
             int determitPoints = 12;
