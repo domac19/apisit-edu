@@ -1,0 +1,14 @@
+D:\Excercie\validationExcercies\validationExcercies\bin\Debug\netcoreapp3.1\validationExcercies.exe
+D:\Excercie\validationExcercies\validationExcercies\bin\Debug\netcoreapp3.1\validationExcercies.deps.json
+D:\Excercie\validationExcercies\validationExcercies\bin\Debug\netcoreapp3.1\validationExcercies.runtimeconfig.json
+D:\Excercie\validationExcercies\validationExcercies\bin\Debug\netcoreapp3.1\validationExcercies.runtimeconfig.dev.json
+D:\Excercie\validationExcercies\validationExcercies\bin\Debug\netcoreapp3.1\validationExcercies.dll
+D:\Excercie\validationExcercies\validationExcercies\bin\Debug\netcoreapp3.1\validationExcercies.pdb
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.csproj.AssemblyReference.cache
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.AssemblyInfoInputs.cache
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.AssemblyInfo.cs
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.csproj.CoreCompileInputs.cache
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.dll
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.pdb
+D:\Excercie\validationExcercies\validationExcercies\obj\Debug\netcoreapp3.1\validationExcercies.genruntimeconfig.cache
