@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 
 namespace readingFiles
 {
@@ -6,12 +7,8 @@ namespace readingFiles
     {
         static void Main(string[] args)
         {
-            var textFiles = (@"D:\Excercie\sortingNumbers\sortingNumbers.sln");  
-            
-            var someFiles = File.ReadAllText(textFiles).Length;
-
-           
-
+            var textFiles = File.ReadAllText(@"D:\Excercie\sortingNumbers\sortingNumbers.sln");
+            Console.WriteLine(textFiles.Length);
         }
     }
 }
