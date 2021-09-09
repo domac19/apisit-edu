@@ -8,8 +8,8 @@ namespace imageDescription
         {
             Console.WriteLine("Hello! Please enter width and height of your image!");
 
-            int imageWidth = Convert.ToInt32(Console.ReadLine());
-            int imageHeight = Convert.ToInt32(Console.ReadLine());
+            var imageWidth = Convert.ToInt32(Console.ReadLine());
+            var imageHeight = Convert.ToInt32(Console.ReadLine());
 
             if (imageWidth > imageHeight)
             {
