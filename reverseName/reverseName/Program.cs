@@ -13,7 +13,7 @@ namespace reverseName
             char[] arrayNames = enterName.ToCharArray();
             Array.Reverse(arrayNames);
 
-            Console.WriteLine(new String(arrayNames));
+            Console.WriteLine(arrayNames);
 
         }
     }
