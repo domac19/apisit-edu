@@ -1,0 +1,14 @@
+D:\Excercie\englishWords\englishWords\bin\Debug\netcoreapp3.1\englishWords.exe
+D:\Excercie\englishWords\englishWords\bin\Debug\netcoreapp3.1\englishWords.deps.json
+D:\Excercie\englishWords\englishWords\bin\Debug\netcoreapp3.1\englishWords.runtimeconfig.json
+D:\Excercie\englishWords\englishWords\bin\Debug\netcoreapp3.1\englishWords.runtimeconfig.dev.json
+D:\Excercie\englishWords\englishWords\bin\Debug\netcoreapp3.1\englishWords.dll
+D:\Excercie\englishWords\englishWords\bin\Debug\netcoreapp3.1\englishWords.pdb
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.csproj.AssemblyReference.cache
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.AssemblyInfoInputs.cache
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.AssemblyInfo.cs
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.csproj.CoreCompileInputs.cache
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.dll
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.pdb
+D:\Excercie\englishWords\englishWords\obj\Debug\netcoreapp3.1\englishWords.genruntimeconfig.cache
