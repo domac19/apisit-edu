@@ -6,7 +6,7 @@ namespace guessNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Secret number 5");
+            Console.WriteLine("Guess the number between 1 and 10");
             
             Random randomNumbers = new Random();
             int guessNumber = randomNumbers.Next(1, 10);
@@ -17,6 +17,7 @@ namespace guessNumber
                 if (userNumber == guessNumber)
                 {
                     Console.WriteLine("You won!");
+                    break;
                 }
                 else if( userNumber != guessNumber)
                 {
