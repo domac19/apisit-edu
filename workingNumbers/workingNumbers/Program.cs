@@ -7,8 +7,8 @@ namespace workingNumbers
         static void Main(string[] args)
         {
             Console.WriteLine("Write two numbers to compare them");
-            int firstCompare = Convert.ToInt32(Console.ReadLine());
-            int secondCompare = Convert.ToInt32(Console.ReadLine());
+            var firstCompare = Convert.ToInt32(Console.ReadLine());
+            var secondCompare = Convert.ToInt32(Console.ReadLine());
 
             if (firstCompare < secondCompare)
             {
