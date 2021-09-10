@@ -1,0 +1,14 @@
+D:\Excercie\longWord\longWord\bin\Debug\netcoreapp3.1\longWord.exe
+D:\Excercie\longWord\longWord\bin\Debug\netcoreapp3.1\longWord.deps.json
+D:\Excercie\longWord\longWord\bin\Debug\netcoreapp3.1\longWord.runtimeconfig.json
+D:\Excercie\longWord\longWord\bin\Debug\netcoreapp3.1\longWord.runtimeconfig.dev.json
+D:\Excercie\longWord\longWord\bin\Debug\netcoreapp3.1\longWord.dll
+D:\Excercie\longWord\longWord\bin\Debug\netcoreapp3.1\longWord.pdb
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.csproj.AssemblyReference.cache
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.AssemblyInfoInputs.cache
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.AssemblyInfo.cs
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.csproj.CoreCompileInputs.cache
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.dll
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.pdb
+D:\Excercie\longWord\longWord\obj\Debug\netcoreapp3.1\longWord.genruntimeconfig.cache
