@@ -17,9 +17,14 @@ namespace listNumbers
                 {
                     Console.WriteLine("Invalid list!");
                 }
-                else
+               else 
                 {
                     Console.WriteLine(addNumbers);
+                    Console.WriteLine("Three smallest numbers");
+                    for (var i = 0; i < 3; i++)
+                    {
+                        Console.WriteLine(addNumbers[i]);
+                    }
                     break;
                 }
             }
