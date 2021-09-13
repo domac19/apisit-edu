@@ -16,11 +16,16 @@ namespace sortingNumbers
                 if (listNumbers.Contains(enterNumbers))
                 {
                     Console.WriteLine(enterNumbers);
-                    break;
+                    continue;
                 }
                 listNumbers.Add(enterNumbers);
             }
             listNumbers.Sort();
+
+            foreach (var enterNumbers in listNumbers)
+            {
+                Console.WriteLine(enterNumbers);
+            }
         }
     }
 }
