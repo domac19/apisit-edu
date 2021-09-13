@@ -7,8 +7,8 @@ namespace validationExcercies
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter number between 1 and 10.");
-            var userNumber = Convert.ToInt32(Console.ReadLine());
-            var convertInput = Convert.ToInt32(userNumber);
+            int userNumber = Int32.Parse(Console.ReadLine());
+            int convertInput = userNumber;
             
             if (convertInput >= 1 && convertInput <= 10)
             {
