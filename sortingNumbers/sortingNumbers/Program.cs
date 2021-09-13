@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace sortingNumbers
 {
@@ -6,14 +7,20 @@ namespace sortingNumbers
     {
         static void Main(string[] args)
         {
-            var arrayNumbers = new int[5];
-            Console.WriteLine("Enter five numbers!");
-            int enterNumbers = Convert.ToInt32(Console.ReadLine());
-            
-            while(arrayNumbers.Length > 1)
+            var listNumbers = new List<int>();
+
+            while (listNumbers.Count < 5)
             {
-                Console.WriteLine("Error! Try again!");                             
+                Console.WriteLine("Enter five numbers!");
+                var enterNumbers = Convert.ToInt32(Console.ReadLine());
+                if (listNumbers.Contains(enterNumbers))
+                {
+                    Console.WriteLine(enterNumbers);
+                    break;
+                }
+                listNumbers.Add(enterNumbers);
             }
+            listNumbers.Sort();
         }
     }
 }
