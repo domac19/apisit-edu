@@ -16,8 +16,10 @@ namespace uniqueNumbers
                 if(enterInput.ToLower() == "quit")
                 {
                     break;
-                }
-                numberList.Add(Int32.Parse(enterInput));
+                }                
+                int parsingNumber;
+                Int32.TryParse(enterInput, out parsingNumber);
+                numberList.Add(parsingNumber);
             }
 
             var uniqueNumbers = new List<int> { };
