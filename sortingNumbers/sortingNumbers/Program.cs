@@ -12,13 +12,16 @@ namespace sortingNumbers
             while (listNumbers.Count < 5)
             {
                 Console.WriteLine("Enter five numbers!");
-                var enterNumbers = Convert.ToInt32(Console.ReadLine());
-                if (listNumbers.Contains(enterNumbers))
+                var enterNumbers = Console.ReadLine();
+                int parseNumbers;
+                Int32.TryParse(enterNumbers, out parseNumbers);
+
+                if (listNumbers.Contains(parseNumbers))
                 {
                     Console.WriteLine(enterNumbers);
                     continue;
                 }
-                listNumbers.Add(enterNumbers);
+                listNumbers.Add(parseNumbers);
             }
             listNumbers.Sort();
 
