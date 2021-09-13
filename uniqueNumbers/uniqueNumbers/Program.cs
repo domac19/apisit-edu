@@ -7,20 +7,29 @@ namespace uniqueNumbers
     {
         static void Main(string[] args)
         {
+            var numberList = new List<int> { };
             while (true)
             {
-                var numberList = new List<string> { };
-
                 Console.WriteLine("Enter number or type QUIT to exit");
-                var enterNumber = Console.ReadLine();
-                numberList.Add(enterNumber);
+                var enterInput = Console.ReadLine();
                 
-                if(enterNumber == "QUIT" || enterNumber.Length >= 1)
+                if(enterInput.ToLower() == "quit")
                 {
-                    Console.WriteLine(enterNumber);
                     break;
                 }
+                numberList.Add(Int32.Parse(enterInput));
             }
+
+            var uniqueNumbers = new List<int> { };
+            foreach (var number in numberList)
+            {
+                if (!uniqueNumbers.Contains(number))
+                    uniqueNumbers.Add(number);
+            }
+
+            Console.WriteLine("Unique numbers:");
+            foreach (var number in uniqueNumbers)
+                Console.WriteLine(number);
         }
     }
 }
