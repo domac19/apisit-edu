@@ -14,12 +14,12 @@ namespace stopWatch
 
                 if (keyPress.Key == ConsoleKey.Q)
                 {
-                    return;
+                    break;
                 }
                 else if (keyPress.Key == ConsoleKey.Escape)
                 {
                     stopWatch.Stop();
-                    Console.WriteLine($" Elapsed Time: {stopWatch.elapsedTime}");
+                    Console.WriteLine(" Elapsed Time" + stopWatch.elapsedTime);
                 }
                 else if (keyPress.Key == ConsoleKey.Enter)
                 {

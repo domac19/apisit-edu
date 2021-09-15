@@ -19,7 +19,6 @@ namespace stopWatch
             {
                 isCounting = true;
                 startTime = DateTime.Now;
-                startTime = DateTime.Now;
             }
         }
         public void Stop()
@@ -31,7 +30,6 @@ namespace stopWatch
             else
             {
                 isCounting = false;
-                startTime = DateTime.Now;
                 startTime = DateTime.Now;
             }
         }
