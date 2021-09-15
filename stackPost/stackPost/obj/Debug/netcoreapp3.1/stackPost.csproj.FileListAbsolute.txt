@@ -1,0 +1,14 @@
+D:\Second course\stackPost\stackPost\bin\Debug\netcoreapp3.1\stackPost.exe
+D:\Second course\stackPost\stackPost\bin\Debug\netcoreapp3.1\stackPost.deps.json
+D:\Second course\stackPost\stackPost\bin\Debug\netcoreapp3.1\stackPost.runtimeconfig.json
+D:\Second course\stackPost\stackPost\bin\Debug\netcoreapp3.1\stackPost.runtimeconfig.dev.json
+D:\Second course\stackPost\stackPost\bin\Debug\netcoreapp3.1\stackPost.dll
+D:\Second course\stackPost\stackPost\bin\Debug\netcoreapp3.1\stackPost.pdb
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.csproj.AssemblyReference.cache
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.AssemblyInfoInputs.cache
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.AssemblyInfo.cs
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.csproj.CoreCompileInputs.cache
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.dll
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.pdb
+D:\Second course\stackPost\stackPost\obj\Debug\netcoreapp3.1\stackPost.genruntimeconfig.cache
