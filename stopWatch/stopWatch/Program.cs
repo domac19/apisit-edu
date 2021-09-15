@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading;
 
 namespace stopWatch
 {
@@ -8,15 +7,26 @@ namespace stopWatch
         static void Main(string[] args)
         {
             var stopWatch = new Stopwatch();
-            stopWatch.Start();
-            Thread.Sleep(1000);
-            stopWatch.Stop();
-            TimeSpan timeSpan = stopWatch.elapsedTime;
+            Console.WriteLine("To start StopWatch you need to hit Enter and to stop hit Esc button, for quit press q !");
+            while (true)
+            {
+                ConsoleKeyInfo keyPress = Console.ReadKey();
 
-            string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
-            timeSpan.Hours, timeSpan.Minutes, timeSpan.Seconds,
-            timeSpan.Milliseconds / 10);
-            Console.WriteLine("RunTime " + elapsedTime);
+                if (keyPress.Key == ConsoleKey.Q)
+                {
+                    return;
+                }
+                else if (keyPress.Key == ConsoleKey.Escape)
+                {
+                    stopWatch.Stop();
+                    Console.WriteLine($" Elapsed Time: {stopWatch.elapsedTime}");
+                }
+                else if (keyPress.Key == ConsoleKey.Enter)
+                {
+                    stopWatch.Start();
+                    System.Console.WriteLine("Stopwatch start counting.");
+                }
+            }
         }
     }
 }

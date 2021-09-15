@@ -4,17 +4,36 @@ namespace stopWatch
 {
     public class Stopwatch
     {
-        public DateTime startTime { get; set; }
-        public DateTime stopTime { get; set; }
-        public TimeSpan elapsedTime { get; }
+        public DateTime startTime;
+        public DateTime stopTime;
+        public bool isCounting;
+        public TimeSpan elapsedTime => (stopTime - startTime);
 
         public void Start()
         {
-            var startTime = DateTime.Now;
+            if (isCounting)
+            {
+                throw new Exception("Can not start stopwatch twice in a row!");
+            }
+            else
+            {
+                isCounting = true;
+                startTime = DateTime.Now;
+                startTime = DateTime.Now;
+            }
         }
         public void Stop()
         {
-            var stopTime = DateTime.Now;
+            if (!isCounting)
+            {
+                throw new Exception("Can not start stopwatch twice in a row!");
+            }
+            else
+            {
+                isCounting = false;
+                startTime = DateTime.Now;
+                startTime = DateTime.Now;
+            }
         }
     }
 }
