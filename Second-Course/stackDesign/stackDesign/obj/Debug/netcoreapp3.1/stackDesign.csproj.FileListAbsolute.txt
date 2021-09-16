@@ -1,0 +1,14 @@
+D:\Second course\stackDesign\stackDesign\bin\Debug\netcoreapp3.1\stackDesign.exe
+D:\Second course\stackDesign\stackDesign\bin\Debug\netcoreapp3.1\stackDesign.deps.json
+D:\Second course\stackDesign\stackDesign\bin\Debug\netcoreapp3.1\stackDesign.runtimeconfig.json
+D:\Second course\stackDesign\stackDesign\bin\Debug\netcoreapp3.1\stackDesign.runtimeconfig.dev.json
+D:\Second course\stackDesign\stackDesign\bin\Debug\netcoreapp3.1\stackDesign.dll
+D:\Second course\stackDesign\stackDesign\bin\Debug\netcoreapp3.1\stackDesign.pdb
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.csproj.AssemblyReference.cache
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.AssemblyInfoInputs.cache
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.AssemblyInfo.cs
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.csproj.CoreCompileInputs.cache
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.dll
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.pdb
+D:\Second course\stackDesign\stackDesign\obj\Debug\netcoreapp3.1\stackDesign.genruntimeconfig.cache
