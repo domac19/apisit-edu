@@ -5,11 +5,11 @@ namespace stackPost
     public class Post
     {
         public int counterVotes;
-        private string Title { get; set; }
-        private string Description { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
         private DateTime DateTime { get; }
 
-        public int Votes()
+        public int CurrentVotes()
         {
             return counterVotes;
         }
@@ -19,7 +19,7 @@ namespace stackPost
         }
         public void DownVote()
         {
-            counterVotes--;
+            counterVotes--;     
         }
     }
 }

@@ -6,11 +6,21 @@ namespace stackPost
     {
         static void Main(string[] args)
         {
-            var stackPost = new Post();
-            Console.WriteLine("Write your post!");
+            var stackPost = new Post
+            {
+                Title = "This is header",
+                Description = "Hello this is description of some text"
+            };
+
+            Console.WriteLine(stackPost.Title);
+            Console.WriteLine(stackPost.Description);
             stackPost.UpVote();
             stackPost.DownVote();
-            Console.WriteLine(stackPost.Votes());
+
+            Console.WriteLine("Current votes for the post is " + stackPost.CurrentVotes());
+
+            
+
         }
     }
 }
