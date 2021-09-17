@@ -4,9 +4,9 @@ namespace stopWatch
 {
     public class Stopwatch
     {
-        public DateTime startTime;
-        public DateTime stopTime;
-        public bool isCounting;
+        private DateTime startTime;
+        private DateTime stopTime;
+        private bool isCounting;
         public TimeSpan elapsedTime => (stopTime - startTime);
 
         public void Start()
