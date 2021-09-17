@@ -1,0 +1,14 @@
+D:\Second course\databaseConnection\databaseConnection\bin\Debug\netcoreapp3.1\databaseConnection.exe
+D:\Second course\databaseConnection\databaseConnection\bin\Debug\netcoreapp3.1\databaseConnection.deps.json
+D:\Second course\databaseConnection\databaseConnection\bin\Debug\netcoreapp3.1\databaseConnection.runtimeconfig.json
+D:\Second course\databaseConnection\databaseConnection\bin\Debug\netcoreapp3.1\databaseConnection.runtimeconfig.dev.json
+D:\Second course\databaseConnection\databaseConnection\bin\Debug\netcoreapp3.1\databaseConnection.dll
+D:\Second course\databaseConnection\databaseConnection\bin\Debug\netcoreapp3.1\databaseConnection.pdb
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.csproj.AssemblyReference.cache
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.AssemblyInfoInputs.cache
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.AssemblyInfo.cs
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.csproj.CoreCompileInputs.cache
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.dll
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.pdb
+D:\Second course\databaseConnection\databaseConnection\obj\Debug\netcoreapp3.1\databaseConnection.genruntimeconfig.cache
