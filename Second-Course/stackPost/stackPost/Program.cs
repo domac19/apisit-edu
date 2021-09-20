@@ -8,14 +8,13 @@ namespace stackPost
         {
             var stackPost = new Post
             {
-                Title = "This is header",
-                Description = "Hello this is description of some text"
+                Title = "Welcome to posts!",
+                Description = "In this example you should see how many votes are here!",
             };
 
             Console.WriteLine(stackPost.Title);
             Console.WriteLine(stackPost.Description);
             stackPost.UpVote();
-            stackPost.DownVote();
 
             Console.WriteLine("Current votes for the post is " + stackPost.CurrentVotes());
 

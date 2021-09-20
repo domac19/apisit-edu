@@ -4,22 +4,22 @@ namespace stackPost
 {
     public class Post
     {
-        public int counterVotes;
+        private int _counterVotes;
         public string Title { get; set; }
         public string Description { get; set; }
         private DateTime DateTime { get; }
 
         public int CurrentVotes()
         {
-            return counterVotes;
+            return _counterVotes;
         }
         public void UpVote()
         {
-            counterVotes++;
+            _counterVotes++;
         }
         public void DownVote()
         {
-            counterVotes--;     
+            _counterVotes--;     
         }
     }
 }
