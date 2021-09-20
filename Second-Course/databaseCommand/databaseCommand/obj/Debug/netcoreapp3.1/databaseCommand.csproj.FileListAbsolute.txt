@@ -1,0 +1,14 @@
+D:\Second course\databaseCommand\databaseCommand\bin\Debug\netcoreapp3.1\databaseCommand.exe
+D:\Second course\databaseCommand\databaseCommand\bin\Debug\netcoreapp3.1\databaseCommand.deps.json
+D:\Second course\databaseCommand\databaseCommand\bin\Debug\netcoreapp3.1\databaseCommand.runtimeconfig.json
+D:\Second course\databaseCommand\databaseCommand\bin\Debug\netcoreapp3.1\databaseCommand.runtimeconfig.dev.json
+D:\Second course\databaseCommand\databaseCommand\bin\Debug\netcoreapp3.1\databaseCommand.dll
+D:\Second course\databaseCommand\databaseCommand\bin\Debug\netcoreapp3.1\databaseCommand.pdb
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.csproj.AssemblyReference.cache
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.AssemblyInfoInputs.cache
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.AssemblyInfo.cs
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.csproj.CoreCompileInputs.cache
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.dll
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.pdb
+D:\Second course\databaseCommand\databaseCommand\obj\Debug\netcoreapp3.1\databaseCommand.genruntimeconfig.cache
