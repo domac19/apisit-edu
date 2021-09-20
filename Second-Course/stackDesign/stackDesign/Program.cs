@@ -6,6 +6,7 @@ namespace stackDesign
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("There is output of Stack!");
             var stack = new Stack();
             stack.Push(1);
             stack.Push(2);

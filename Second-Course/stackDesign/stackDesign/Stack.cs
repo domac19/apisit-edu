@@ -5,12 +5,12 @@ namespace stackDesign
 {
     public class Stack
     {
-        public List<object> List { get; } = new List<object>();
+        private List<object> _list { get; } = new List<object>();
         public void Push(object obj)
         {
             if (obj != null)
             {
-                List.Add(obj);
+                _list.Add(obj);
             }
             else
             {
@@ -19,13 +19,13 @@ namespace stackDesign
         }
         public object Pop()
         {
-            int index = List.Count - 1;
+            int index = _list.Count - 1;
             object obj = null;
 
-            if (List.Count > 0)
+            if (_list.Count > 0)
             {
-                obj = List[index];
-                List.RemoveAt(index);
+                obj = _list[index];
+                _list.RemoveAt(index);
             }
             else
             {
@@ -35,7 +35,7 @@ namespace stackDesign
         }
         public void Clear()
         {
-            List.Clear();
+            _list.Clear();
         }
     }
 }
