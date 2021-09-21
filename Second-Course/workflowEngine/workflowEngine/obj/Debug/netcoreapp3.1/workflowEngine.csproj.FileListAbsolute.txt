@@ -1,0 +1,14 @@
+D:\Second course\workflowEngine\workflowEngine\bin\Debug\netcoreapp3.1\workflowEngine.exe
+D:\Second course\workflowEngine\workflowEngine\bin\Debug\netcoreapp3.1\workflowEngine.deps.json
+D:\Second course\workflowEngine\workflowEngine\bin\Debug\netcoreapp3.1\workflowEngine.runtimeconfig.json
+D:\Second course\workflowEngine\workflowEngine\bin\Debug\netcoreapp3.1\workflowEngine.runtimeconfig.dev.json
+D:\Second course\workflowEngine\workflowEngine\bin\Debug\netcoreapp3.1\workflowEngine.dll
+D:\Second course\workflowEngine\workflowEngine\bin\Debug\netcoreapp3.1\workflowEngine.pdb
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.csproj.AssemblyReference.cache
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.AssemblyInfoInputs.cache
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.AssemblyInfo.cs
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.csproj.CoreCompileInputs.cache
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.dll
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.pdb
+D:\Second course\workflowEngine\workflowEngine\obj\Debug\netcoreapp3.1\workflowEngine.genruntimeconfig.cache
