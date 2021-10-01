@@ -1,1 +1,1 @@
-<h1> U ovom dijelu se nalaze sve vježbe drugog tečaja </h1>
+<h1> Zadaci drugog tečaja </h1>
