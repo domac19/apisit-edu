@@ -1,0 +1,14 @@
+D:\Third course\genericsExample\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.exe
+D:\Third course\genericsExample\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.deps.json
+D:\Third course\genericsExample\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.runtimeconfig.json
+D:\Third course\genericsExample\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.runtimeconfig.dev.json
+D:\Third course\genericsExample\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.dll
+D:\Third course\genericsExample\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.pdb
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.csproj.AssemblyReference.cache
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.AssemblyInfoInputs.cache
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.AssemblyInfo.cs
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.csproj.CoreCompileInputs.cache
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.dll
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.pdb
+D:\Third course\genericsExample\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.genruntimeconfig.cache
