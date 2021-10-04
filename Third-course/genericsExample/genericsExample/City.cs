@@ -5,18 +5,19 @@
         private object _value;
         private object _key;
 
-        public City(Tvalue value, Tkey key)
+        public City()
+        {
+        }
+        public Tkey AddId(Tkey key)
+        {
+            _key = key;
+            return (Tkey) key;
+            
+        } 
+        public Tvalue AddValue(Tvalue value)
         {
             _value = value;
-            _key = key;
-        }
-        public Tkey AddId()
-        {
-            return (Tkey) _key;
-        } 
-        public Tvalue AddValue()
-        {
-            return (Tvalue)_value;
+            return (Tvalue) value;
         }
     }
 }
