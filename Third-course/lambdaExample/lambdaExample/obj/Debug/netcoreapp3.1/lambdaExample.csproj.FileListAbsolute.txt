@@ -1,0 +1,14 @@
+D:\Third course\lambdaExample\lambdaExample\bin\Debug\netcoreapp3.1\lambdaExample.exe
+D:\Third course\lambdaExample\lambdaExample\bin\Debug\netcoreapp3.1\lambdaExample.deps.json
+D:\Third course\lambdaExample\lambdaExample\bin\Debug\netcoreapp3.1\lambdaExample.runtimeconfig.json
+D:\Third course\lambdaExample\lambdaExample\bin\Debug\netcoreapp3.1\lambdaExample.runtimeconfig.dev.json
+D:\Third course\lambdaExample\lambdaExample\bin\Debug\netcoreapp3.1\lambdaExample.dll
+D:\Third course\lambdaExample\lambdaExample\bin\Debug\netcoreapp3.1\lambdaExample.pdb
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.csproj.AssemblyReference.cache
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.AssemblyInfoInputs.cache
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.AssemblyInfo.cs
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.csproj.CoreCompileInputs.cache
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.dll
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.pdb
+D:\Third course\lambdaExample\lambdaExample\obj\Debug\netcoreapp3.1\lambdaExample.genruntimeconfig.cache
