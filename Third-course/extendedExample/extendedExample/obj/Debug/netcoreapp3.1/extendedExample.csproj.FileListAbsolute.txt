@@ -1,0 +1,14 @@
+D:\Third course\extendedExample\extendedExample\bin\Debug\netcoreapp3.1\extendedExample.exe
+D:\Third course\extendedExample\extendedExample\bin\Debug\netcoreapp3.1\extendedExample.deps.json
+D:\Third course\extendedExample\extendedExample\bin\Debug\netcoreapp3.1\extendedExample.runtimeconfig.json
+D:\Third course\extendedExample\extendedExample\bin\Debug\netcoreapp3.1\extendedExample.runtimeconfig.dev.json
+D:\Third course\extendedExample\extendedExample\bin\Debug\netcoreapp3.1\extendedExample.dll
+D:\Third course\extendedExample\extendedExample\bin\Debug\netcoreapp3.1\extendedExample.pdb
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.csproj.AssemblyReference.cache
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.AssemblyInfoInputs.cache
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.AssemblyInfo.cs
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.csproj.CoreCompileInputs.cache
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.dll
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.pdb
+D:\Third course\extendedExample\extendedExample\obj\Debug\netcoreapp3.1\extendedExample.genruntimeconfig.cache
