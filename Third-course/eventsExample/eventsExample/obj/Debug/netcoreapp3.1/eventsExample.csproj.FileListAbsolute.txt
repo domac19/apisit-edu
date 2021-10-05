@@ -1,0 +1,14 @@
+D:\Third course\eventsExample\eventsExample\bin\Debug\netcoreapp3.1\eventsExample.exe
+D:\Third course\eventsExample\eventsExample\bin\Debug\netcoreapp3.1\eventsExample.deps.json
+D:\Third course\eventsExample\eventsExample\bin\Debug\netcoreapp3.1\eventsExample.runtimeconfig.json
+D:\Third course\eventsExample\eventsExample\bin\Debug\netcoreapp3.1\eventsExample.runtimeconfig.dev.json
+D:\Third course\eventsExample\eventsExample\bin\Debug\netcoreapp3.1\eventsExample.dll
+D:\Third course\eventsExample\eventsExample\bin\Debug\netcoreapp3.1\eventsExample.pdb
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.csproj.AssemblyReference.cache
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.AssemblyInfoInputs.cache
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.AssemblyInfo.cs
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.csproj.CoreCompileInputs.cache
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.dll
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.pdb
+D:\Third course\eventsExample\eventsExample\obj\Debug\netcoreapp3.1\eventsExample.genruntimeconfig.cache
