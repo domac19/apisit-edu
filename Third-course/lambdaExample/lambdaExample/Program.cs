@@ -14,13 +14,8 @@ namespace lambdaExample
                 Func<int, int> num = number => number * item;
                 Console.WriteLine(num(2));
             }
-
-            Action<string> thank = thankMessage =>
-            {
-                string saluting = $"Hello {thankMessage}";
-                Console.WriteLine(saluting);
-            };
-            thank("thanks for watching!");
+            var helloMessage = new Message();
+            helloMessage.AddMessage();
         }
     }
 }
