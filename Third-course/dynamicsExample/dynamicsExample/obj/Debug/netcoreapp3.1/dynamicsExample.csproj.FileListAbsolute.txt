@@ -1,0 +1,14 @@
+D:\Third course\dynamicsExample\dynamicsExample\bin\Debug\netcoreapp3.1\dynamicsExample.exe
+D:\Third course\dynamicsExample\dynamicsExample\bin\Debug\netcoreapp3.1\dynamicsExample.deps.json
+D:\Third course\dynamicsExample\dynamicsExample\bin\Debug\netcoreapp3.1\dynamicsExample.runtimeconfig.json
+D:\Third course\dynamicsExample\dynamicsExample\bin\Debug\netcoreapp3.1\dynamicsExample.runtimeconfig.dev.json
+D:\Third course\dynamicsExample\dynamicsExample\bin\Debug\netcoreapp3.1\dynamicsExample.dll
+D:\Third course\dynamicsExample\dynamicsExample\bin\Debug\netcoreapp3.1\dynamicsExample.pdb
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.csproj.AssemblyReference.cache
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.AssemblyInfoInputs.cache
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.AssemblyInfo.cs
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.csproj.CoreCompileInputs.cache
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.dll
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.pdb
+D:\Third course\dynamicsExample\dynamicsExample\obj\Debug\netcoreapp3.1\dynamicsExample.genruntimeconfig.cache
