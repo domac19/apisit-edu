@@ -1,0 +1,14 @@
+D:\Third course\linqExample\linqExample\bin\Debug\netcoreapp3.1\linqExample.exe
+D:\Third course\linqExample\linqExample\bin\Debug\netcoreapp3.1\linqExample.deps.json
+D:\Third course\linqExample\linqExample\bin\Debug\netcoreapp3.1\linqExample.runtimeconfig.json
+D:\Third course\linqExample\linqExample\bin\Debug\netcoreapp3.1\linqExample.runtimeconfig.dev.json
+D:\Third course\linqExample\linqExample\bin\Debug\netcoreapp3.1\linqExample.dll
+D:\Third course\linqExample\linqExample\bin\Debug\netcoreapp3.1\linqExample.pdb
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.csproj.AssemblyReference.cache
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.AssemblyInfoInputs.cache
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.AssemblyInfo.cs
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.csproj.CoreCompileInputs.cache
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.dll
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.pdb
+D:\Third course\linqExample\linqExample\obj\Debug\netcoreapp3.1\linqExample.genruntimeconfig.cache
