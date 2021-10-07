@@ -8,19 +8,26 @@ namespace dynamicsExample
         {
             dynamic inputName = Console.ReadLine();
 
-            Console.ForegroundColor = ConsoleColor.Red;
-            try
+            if (String.IsNullOrEmpty(inputName))
             {
-                inputName++;
-                Console.WriteLine(inputName);
+                Console.WriteLine("You did not enter your name!");
             }
-            catch (Exception error)
+            else
             {
-                Console.WriteLine("This can not be done becouse name is type string " + error);
-            }
-            finally
-            {
-                Console.WriteLine(inputName);
+                Console.ForegroundColor = ConsoleColor.Red;
+                try
+                {
+                    inputName++;
+                    Console.WriteLine(inputName);
+                }
+                catch (Exception error)
+                {
+                    Console.WriteLine("This can not be done becouse name is type string " + error);
+                }
+                finally
+                {
+                    Console.WriteLine(inputName);
+                }
             }
         }
         public void OrThis()
@@ -29,12 +36,19 @@ namespace dynamicsExample
             Console.WriteLine("Try again!");
             dynamic inputName = Console.ReadLine();
 
-            inputName = 1;
-            inputName++;
-
-            if (inputName > 1)
+            if (String.IsNullOrEmpty(inputName))
             {
-                Console.WriteLine($"Finnaly error is fixed and I get number: {inputName}");
+                Console.WriteLine("Please enter name!");
+            }
+            else
+            {
+                inputName = 0;
+                inputName++;
+
+                if (inputName > 0)
+                {
+                    Console.WriteLine($"Finnaly error is fixed with dynamics and I get index of name: {inputName}");
+                }
             }
         }
     }
