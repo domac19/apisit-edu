@@ -4,10 +4,10 @@ namespace nullableExample
 {
     public class CheckNullable
     {
-        public int? Maxnum;
+        private int? _number;
         public void AddSomething(int numberParse)
         {
-            Maxnum = numberParse;
+            _number = numberParse;
             var inputData = Console.ReadLine();
             Int32.TryParse(inputData, out numberParse);
 
