@@ -6,9 +6,15 @@ namespace delegatesExample
     {
         static void Main(string[] args)
         {
+            var welcomeMessage = new Welcome();
+            Buildings.Building building = welcomeMessage.AddWelcome;
+            building += welcomeMessage.Name;
+            welcomeMessage.AddWelcome(building);
+            welcomeMessage.Name(building);
+            
             var someBuildings = new Buildings();
-            Buildings.Building building = someBuildings.Add;
-            someBuildings.Add(building);
+            Buildings.Building buildingAdd = someBuildings.Add;
+            someBuildings.Add(buildingAdd);
         }
     }
 }

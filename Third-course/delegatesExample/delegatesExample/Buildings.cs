@@ -8,14 +8,8 @@ namespace delegatesExample
 
         public void Add(Building building)
         {
-            if (building == null)
-            {
-                Console.WriteLine("This building does not exist!");
-            }
-            else
-            {
-                Console.WriteLine("New building added!");
-            }
+            var testBuilding = (building == null) ? "This building does not exist!" : "New building added!";
+            Console.WriteLine(testBuilding);
         }
     }
 }
