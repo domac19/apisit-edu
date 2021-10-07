@@ -6,13 +6,9 @@ namespace nullableExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Example of nullable!");
+            Console.WriteLine("Enter number or press enter!");
             var checkNull = new CheckNullable();
-            
-            if (checkNull.Maxnum == null)
-            {
-                Console.WriteLine("Threre is no number inside this number");
-            }
+            checkNull.AddSomething(0);
         }
     }
 }
