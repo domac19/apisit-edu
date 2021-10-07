@@ -6,8 +6,8 @@ namespace extendedExample
     {
         static void Main(string[] args)
         {
-            var banana = "First story goes by!";
-            banana.StoryText();
+            var currentStory = "First story goes by!";
+            currentStory.StoryText();
 
             SecondStory secondStory = new SecondStory();
             secondStory.NewStory("And new story comes here!");
